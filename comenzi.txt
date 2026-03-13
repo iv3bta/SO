@@ -1,0 +1,28 @@
+cd      - change directory
+chmod   - schimba permisiunile unui fisier
+cmp     - compara doua fisiere
+diff    - afiseaza diferentele a doua fisiere
+cp      - 
+echo    - afiseaza la ecran(un fel de print)
+ls      - list directory inventory
+cat     - afiseaza/combina/creeaza fisier nou(cat a.txt b.txt > c.txt)
+man     - vine de la manual si explica comenzii
+less    - poate sa deschida fisiere si sa le afiseze
+pwd     - afieaza unde este
+mkdir   - create directory
+mv      - muta/redenumeste
+pwd     - afieaza unde este
+rm      - remove
+export  - variabile de mediu
+`test`  - outputu la test(poate sa fie orice comanda) il transmite ca string 
+wc      - word count(numara)
+-lt     - lower decat ...
+-gt     - greater decat
+-eq     - equal
+
+
+recomandare sa inveti vim
+https://regexone.com/lesson/wildcards_dot?
+https://vim-adventures.com/
+
+
