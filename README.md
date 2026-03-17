@@ -35,4 +35,3 @@ chmod +x *.sh
 Understanding shell scripting, command-line argument handling, modular code design, and basic algorithmic implementations through hands-on exercises.
 
 ---
-**Created:** March 17, 2026 | **Platform:** Linux
