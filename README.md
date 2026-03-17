@@ -19,10 +19,6 @@ This folder contains laboratory assignments focused on:
 - **Platform:** Linux
 - **Concepts:** Functions, Conditionals, Case statements, User Input, Number Systems
 
-## 📁 Structure
-
-- **laboratory-3/** - Calculator and number conversion system with menu-based operations
-
 ## 🚀 Getting Started
 
 ```bash
