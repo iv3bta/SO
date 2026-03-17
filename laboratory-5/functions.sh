@@ -79,7 +79,7 @@ show_menu() {
 }
 
 main() {
-    read -rp "Introdu numele fisierului sursa: " source_file
+    read -rp "Type the source file name: " source_file
 
     while true; do
         echo
@@ -104,7 +104,7 @@ main() {
                 break
                 ;;
             *)
-                echo "Optiune invalida. Incearca din nou."
+                echo "Invalid option. Please choose again."
                 ;;
         esac
     done
